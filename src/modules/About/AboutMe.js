@@ -49,7 +49,7 @@ const downloadVariants = {
 
 const experiences = [
   {
-    title: "Software Engineer — Frontend Developer",
+    title: "Software Engineer",
     company: "INVEXTECH",
     period: "February 2024 – August 2025",
     description:
